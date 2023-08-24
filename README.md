@@ -20,7 +20,7 @@ The interactive PowerBI Dashboard created for this project can be found in the l
 
 The accompanying Powerpoint slide can be found in the link below:  
 - [GitHub Powerpoint link](Hotel_Data_Analysis_Project_GitHub.pdf)  
-- [Google Drive PowerPoint Link](https://drive.google.com/file/d/1JlsREV07nyBBjE8LvtkCypXUDG9kJLob/view?usp=sharing)  
+- [Google Drive PowerPoint Link](https://drive.google.com/file/d/1OpuAiz30Mvwbb-JRk8IzFO3DxdqUih8Z/view?usp=sharing)  
 
 ### Final SQL Code Blocks imported into PowerBI
 
