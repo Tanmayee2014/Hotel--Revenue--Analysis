@@ -1,18 +1,33 @@
 # Hotel Revenue Analysis [PowerBI, PowerQuery M, T-SQL, SQL Server Management Studio, Excel, PowerPoint]
+[GitHub Repository Link](https://github.com/YongSookPrasitAttavit/Hotel-Revenue-Analysis-Project)
+
 ## Background
 This project explores a hotel revenue dataset spanning across three years (2018, 2019, and 2020). SQL and Power BI were leveraged to uncover valuable insights about revenue & guest seasonality.
 
-Data from raw .csv file was ingested into **SQL Server Management Studio [SSMS]**, from which SQL queries were iteratively built upon to obtain the final SQL output which was then imported into SSMS for data analysis & visualization. Additional data processing was done in PowerBI with PowerQuery M for visualization purposes. Guests, revenue seasonality, recommendation for staffing arrangement, and dataset limitations were explained with the help of additional visualizations done in PowerBI.
+Data from raw .csv file was ingested into **SQL Server Management Studio [SSMS]**, from which SQL queries were iteratively built upon to obtain the final SQL output which was then imported into SSMS for data analysis & visualization. Additional data processing was done in PowerBI with PowerQuery M for visualization purposes. Guests, revenue seasonality, recommendation for staffing arrangement, and dataset limitations were explained in the accompanying PowerPoint slide with the help of PowerBI visualizations.
+
+## Data Source
+The dataset used in this analysis can be downloaded [here](data/original_data/OriginalDataset_hotel_revenue_historical_full-2.xlsx). It contains various information about hotel booking from 2018 - 2020, along with additional tables containing market segment information and meal costs.
+
+## Power BI Dashboard
+
+The interactive PowerBI Dashboard created for this project can be found in the link below:  
+[PowerBI Dashboard Link](https://www.novypro.com/project/hotel-revenue-analysis-dashboard)
+
+![PowerBI Static Image](data/image/Hotel_Revenue_Dashboard.png)
+
+## Powerpoint Slide
+
+The accompanying Powerpoint slide can be found in the link below:  
+- [GitHub Powerpoint link](Hotel_Data_Analysis_Project_GitHub.pdf)  
+- [Google Drive PowerPoint Link](https://drive.google.com/file/d/1JlsREV07nyBBjE8LvtkCypXUDG9kJLob/view?usp=sharing)  
 
 ### Final SQL Code Blocks imported into PowerBI
 
 ![Final_SQL_Query_1](data/image/Final_SQL_Query_1_ImportToPowerBI.png)
 ![Final_SQL_Query_2](data/image/Final_SQL_Query_2_ImportToPowerBI.png)
 
-## Data Source
-The dataset used in this analysis can be found within this [repo](data/original_data/OriginalDataset_hotel_revenue_historical_full-2.xlsx). It contains various information about hotel booking from 2018 - 2020, along with additional tables containing market segment information and meal costs.
-
-### The project addresses the following key business questions
+### The project addresses the following key business questions:
 
 **1. Which are the busiest months? On average, how long do guests stay at the hotel?**
 
@@ -33,15 +48,3 @@ The dataset used in this analysis can be found within this [repo](data/original_
 **5. Is our hotel revenue growing by year? If so, which hotel brings in greater revenue? Is there any observed seasonality with respect to revenue?**
 
 ![Answer 5](data/image/5.png)
-
-## Power BI Dashboard
-
-The interactive PowerBI Dashboard created for this project can be found in the link below:  
-[PowerBI Dashboard Link](https://www.novypro.com/project/hotel-revenue-analysis-dashboard)  
-![PowerBI Static Image](data/image/Hotel_Revenue_Dashboard.png)
-
-## Powerpoint Slide
-
-The accompanying Powerpoint slide can be found in the link below:  
-- [GitHub Powerpoint link](Hotel_Data_Analysis_Project_GitHub.pdf)
-- [Google Drive PowerPoint Link](https://drive.google.com/file/d/1JlsREV07nyBBjE8LvtkCypXUDG9kJLob/view?usp=sharing)
