@@ -1,12 +1,6 @@
 # Hotel Revenue Analysis [PowerBI, PowerQuery M, T-SQL, SQL Server Management Studio, Excel, PowerPoint]
-[GitHub Repository Link](https://github.com/YongSookPrasitAttavit/Hotel-Revenue-Analysis-Project)
+[GitHub Powerpoint link](Hotel_Data_Analysis_Project_GitHub.pdf)  |  [Google Drive PowerPoint Link](https://drive.google.com/file/d/1OpuAiz30Mvwbb-JRk8IzFO3DxdqUih8Z/view?usp=sharing)  |  [GitHub Repository Link](https://github.com/YSPAttavit/Hotel-Revenue-Analysis-Project)
 
-## Background
-This project explores a hotel revenue dataset spanning across three years (2018, 2019, and 2020). SQL and Power BI were leveraged to uncover valuable insights about revenue & guest seasonality.
-
-Data from raw .csv file was ingested into **SQL Server Management Studio [SSMS]**, from which SQL queries were iteratively built upon to obtain the final SQL output which was then imported into SSMS for data analysis & visualization. Additional data processing was done in PowerBI with PowerQuery M for visualization purposes. Guests, revenue seasonality, recommendation for staffing arrangement, and dataset limitations were explained in the accompanying PowerPoint slide with the help of PowerBI visualizations.
-
-## Data Source
 The dataset used in this analysis can be downloaded [here](data/original_data/OriginalDataset_hotel_revenue_historical_full-2.xlsx). It contains various information about hotel booking from 2018 - 2020, along with additional tables containing market segment information and meal costs.
 
 ## Power BI Dashboard
@@ -16,11 +10,10 @@ The interactive PowerBI Dashboard created for this project can be found in the l
 
 ![PowerBI Static Image](data/image/Hotel_Revenue_Dashboard.png)
 
-## Powerpoint Slide
+## Background
+This project explores a hotel revenue dataset spanning across three years (2018, 2019, and 2020). SQL and Power BI were leveraged to uncover valuable insights about revenue & guest seasonality.
 
-The accompanying Powerpoint slide can be found in the link below:  
-- [GitHub Powerpoint link](Hotel_Data_Analysis_Project_GitHub.pdf)
-- [Google Drive PowerPoint Link](https://drive.google.com/file/d/1OpuAiz30Mvwbb-JRk8IzFO3DxdqUih8Z/view?usp=sharing)  
+Data from raw .csv file was ingested into **SQL Server Management Studio [SSMS]**, from which SQL queries were iteratively built upon to obtain the final SQL output which was then imported into SSMS for data analysis & visualization. Additional data processing was done in PowerBI with PowerQuery M for visualization purposes. Guests, revenue seasonality, recommendation for staffing arrangement, and dataset limitations were explained in the accompanying PowerPoint slide with the help of PowerBI visualizations.
 
 ### Final SQL Code Blocks imported into PowerBI
 
